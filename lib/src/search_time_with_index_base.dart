@@ -2,6 +2,9 @@ import 'dart:math';
 
 class SearchTimeWithIndexBase {
   Map<String, dynamic> searchBinary<T extends Comparable>(
+    // dsdjkaskdS AS 
+    //FSLKMDSALKDMLK 
+    //SDKSDLKMSDLK
       List<T> data, T item) {
     int low = 0;
     int high = data.length - 1;
