@@ -1,13 +1,14 @@
 name: search_time_with_index
-description: A starting point for Dart libraries or applications.
+description: Bu package orqali siz uch xil search functionlaridan foydalana olasiz bular Binary seach LInery search Jump search. maybe it is best.
 version: 1.0.0
-repository: https://github.com/my_org/my_repo
+homepage: https://github.com/Azamatjon17/search_time_with_index
 
 environment:
   sdk: ^3.4.4
 
-# Add regular dependencies here.
 dependencies:
+  # Add regular dependencies here.
+  # For example:
   # path: ^1.8.0
 
 dev_dependencies:
