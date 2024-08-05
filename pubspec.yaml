@@ -1,6 +1,6 @@
 name: search_time_with_index
 description: Bu package orqali siz uch xil search functionlaridan foydalana olasiz bular Binary seach LInery search Jump search. maybe it is best.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/Azamatjon17/search_time_with_index
 
 environment:
